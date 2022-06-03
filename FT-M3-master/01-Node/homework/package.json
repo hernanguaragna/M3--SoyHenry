@@ -1,18 +1,10 @@
 {
-  "name": "homework",
+  "name": "01-node",
   "version": "1.0.0",
-  "description": "## Node Js Homework",
-  "main": "bash.js",
+  "description": "",
   "scripts": {
-    "start": "nodemon bash.js",
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "nodemon bash.js"
   },
   "author": "",
-  "license": "ISC",
-  "dependencies": {
-    "node-fetch": "^2.6.7",
-    "nodemon": "^2.0.16",
-    "prompt-sync": "^4.2.0",
-    "request": "^2.88.2"
-  }
+  "license": "ISC"
 }
